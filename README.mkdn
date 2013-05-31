@@ -1,0 +1,13 @@
+Build CM for Samsung Galaxy Janice
+________________________________________
+
+
+
+Want to build CM for the Samsung Galaxy S Advanced ?
+Follow these steps.
+
+Initiate the source :
+repo init -u git://github.com/shaaan/android.git -b jb
+
+Sync the source :
+repo sync
